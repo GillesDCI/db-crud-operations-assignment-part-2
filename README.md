@@ -22,6 +22,7 @@ Build an API for order management. The following functionality is required:
 4. Updating orders by id
 5. Inserting Inventory records
 6. Check how many products are left in the inventory by product ID .
+7. Update the inventory with inStock field -1 when order is sold. 
 
 Each functionality will be one route with logic. You are free to organize it the way you like. 
 

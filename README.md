@@ -12,6 +12,9 @@ Create a new Backend API fully from scratch
 
 ### 1. Set up your server
 Set up the server.js and configure everything accordingly. Prepare already a models and routes folder. 
++ Set up the .env for mongodb
++ Connect the server to the database 
++ Configure folders 
 
 ### 2. Assignment
 Build an API for order management. The following functionality is required: 
@@ -25,6 +28,7 @@ Build an API for order management. The following functionality is required:
 7. Update the inventory with inStock field -1 when order is sold. 
 
 Each functionality will be one route with logic. You are free to organize it the way you like. 
+Use the previous example projects as a base to build the above functionality. 
 
 
 
